@@ -1,0 +1,13 @@
+.fa-leaf:before,
+.fa-temperature-low:before,
+.fa-lightbulb:before,
+.fa-tint:before,
+.fa-code-branch:before {
+  font-size: 18px;
+}
+.fa-user:before {
+  color: #fff;
+}
+.fa-lock:before {
+  color: #fff;
+}
